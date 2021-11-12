@@ -1,0 +1,14 @@
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\bin\Debug\netcoreapp3.1\BoucleFor.exe
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\bin\Debug\netcoreapp3.1\BoucleFor.deps.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\bin\Debug\netcoreapp3.1\BoucleFor.runtimeconfig.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\bin\Debug\netcoreapp3.1\BoucleFor.runtimeconfig.dev.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\bin\Debug\netcoreapp3.1\BoucleFor.dll
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\bin\Debug\netcoreapp3.1\BoucleFor.pdb
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.csproj.AssemblyReference.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.AssemblyInfoInputs.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.AssemblyInfo.cs
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.csproj.CoreCompileInputs.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.dll
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.pdb
+C:\Users\z.ettarak\Desktop\DevOps\csharp\BoucleFor\BoucleFor\obj\Debug\netcoreapp3.1\BoucleFor.genruntimeconfig.cache
