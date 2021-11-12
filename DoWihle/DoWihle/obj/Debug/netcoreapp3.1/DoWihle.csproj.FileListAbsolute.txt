@@ -1,0 +1,14 @@
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.csproj.AssemblyReference.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.AssemblyInfoInputs.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.AssemblyInfo.cs
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.csproj.CoreCompileInputs.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\bin\Debug\netcoreapp3.1\DoWihle.exe
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\bin\Debug\netcoreapp3.1\DoWihle.deps.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\bin\Debug\netcoreapp3.1\DoWihle.runtimeconfig.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\bin\Debug\netcoreapp3.1\DoWihle.runtimeconfig.dev.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\bin\Debug\netcoreapp3.1\DoWihle.dll
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\bin\Debug\netcoreapp3.1\DoWihle.pdb
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.dll
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.pdb
+C:\Users\z.ettarak\Desktop\DevOps\csharp\DoWihle\DoWihle\obj\Debug\netcoreapp3.1\DoWihle.genruntimeconfig.cache
