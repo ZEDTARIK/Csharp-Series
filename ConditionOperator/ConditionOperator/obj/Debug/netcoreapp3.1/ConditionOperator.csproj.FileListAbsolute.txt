@@ -1,0 +1,13 @@
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\bin\Debug\netcoreapp3.1\ConditionOperator.exe
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\bin\Debug\netcoreapp3.1\ConditionOperator.deps.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\bin\Debug\netcoreapp3.1\ConditionOperator.runtimeconfig.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\bin\Debug\netcoreapp3.1\ConditionOperator.runtimeconfig.dev.json
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\bin\Debug\netcoreapp3.1\ConditionOperator.dll
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\bin\Debug\netcoreapp3.1\ConditionOperator.pdb
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.AssemblyInfoInputs.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.AssemblyInfo.cs
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.csproj.CoreCompileInputs.cache
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.dll
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.pdb
+C:\Users\z.ettarak\Desktop\DevOps\csharp\ConditionOperator\ConditionOperator\obj\Debug\netcoreapp3.1\ConditionOperator.genruntimeconfig.cache
